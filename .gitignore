@@ -1,0 +1,5 @@
+*.py
+/shoes/*.jpg
+/shoes/*.png
+__pycache__/
+.DS_Store
